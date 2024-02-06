@@ -1,7 +1,7 @@
 ### Hey there!
 ### I'm Aqsa Ashfaq, an enthusiastic Software Engineer :)
 ### 🔭 I’m currently working on Python and AI
-### - 🌱 I’m currently learning Django basics, and the interpersonal skills at Amal Academy <3
+### 🌱 I’m currently learning Django basics, and the interpersonal skills at Amal Academy <3
 ### 👯 I’m looking to collaborate on open source project related to Python and AI...
 ### 📫 How to reach me: Ping me at ashfaqaqsa883@gmail.com or connect with me on https://www.linkedin.com/in/aqsa-ashfaq.
 ### ⚡ Fun fact: Did you know that the first ever programmer was a woman ;)
